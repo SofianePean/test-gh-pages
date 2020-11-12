@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/test-gh-pages/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/test-gh-pages/static/js/main.2bcb1d95.chunk.js",
-    "main.js.map": "/test-gh-pages/static/js/main.2bcb1d95.chunk.js.map",
-    "runtime-main.js": "/test-gh-pages/static/js/runtime-main.2aac5b1e.js",
-    "runtime-main.js.map": "/test-gh-pages/static/js/runtime-main.2aac5b1e.js.map",
-    "static/js/2.da034202.chunk.js": "/test-gh-pages/static/js/2.da034202.chunk.js",
-    "static/js/2.da034202.chunk.js.map": "/test-gh-pages/static/js/2.da034202.chunk.js.map",
-    "static/js/3.a507e474.chunk.js": "/test-gh-pages/static/js/3.a507e474.chunk.js",
-    "static/js/3.a507e474.chunk.js.map": "/test-gh-pages/static/js/3.a507e474.chunk.js.map",
+    "main.css": "/test-gh-pages/static/css/main.6ca081cb.chunk.css",
+    "main.js": "/test-gh-pages/static/js/main.05334f6c.chunk.js",
+    "main.js.map": "/test-gh-pages/static/js/main.05334f6c.chunk.js.map",
+    "runtime-main.js": "/test-gh-pages/static/js/runtime-main.948b0483.js",
+    "runtime-main.js.map": "/test-gh-pages/static/js/runtime-main.948b0483.js.map",
+    "static/js/2.f9e99e6c.chunk.js": "/test-gh-pages/static/js/2.f9e99e6c.chunk.js",
+    "static/js/2.f9e99e6c.chunk.js.map": "/test-gh-pages/static/js/2.f9e99e6c.chunk.js.map",
     "index.html": "/test-gh-pages/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/test-gh-pages/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.da034202.chunk.js.LICENSE.txt": "/test-gh-pages/static/js/2.da034202.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/test-gh-pages/static/media/logo.103b5fa1.svg"
+    "static/css/main.6ca081cb.chunk.css.map": "/test-gh-pages/static/css/main.6ca081cb.chunk.css.map",
+    "static/js/2.f9e99e6c.chunk.js.LICENSE.txt": "/test-gh-pages/static/js/2.f9e99e6c.chunk.js.LICENSE.txt",
+    "static/media/Croix.2b9b9747.svg": "/test-gh-pages/static/media/Croix.2b9b9747.svg",
+    "static/media/IconeTwitch.72d35b74.svg": "/test-gh-pages/static/media/IconeTwitch.72d35b74.svg",
+    "static/media/MenuIco.e783931c.svg": "/test-gh-pages/static/media/MenuIco.e783931c.svg",
+    "static/media/Search.240e946d.svg": "/test-gh-pages/static/media/Search.240e946d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2aac5b1e.js",
-    "static/js/2.da034202.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2bcb1d95.chunk.js"
+    "static/js/runtime-main.948b0483.js",
+    "static/js/2.f9e99e6c.chunk.js",
+    "static/css/main.6ca081cb.chunk.css",
+    "static/js/main.05334f6c.chunk.js"
   ]
 }
