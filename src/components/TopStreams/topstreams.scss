@@ -1,0 +1,54 @@
+.card-stream {
+  height: 420px;
+  width: 320px;
+  margin: 0 30px 30px 0;
+  transition: all .4s;
+  border-radius: 10px;
+  box-shadow: 2px 11px 36px -16px rgba(0,0,0,0.75);
+
+  &:hover {
+    transform: translateY(-5px);
+  }
+
+  &-img {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+
+  &-title {
+    font-size: 21px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 80%;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+
+  &-body {
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+  }
+
+  &-text {
+    margin-bottom: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 500;
+  }
+
+  &-viewer {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 559px) {
+  .card-stream {
+    margin: 0 0 30px 0;
+  }
+}
