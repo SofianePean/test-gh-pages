@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-gh-pages/static/css/main.6ca081cb.chunk.css",
+    "main.css": "/test-gh-pages/static/css/main.b7b6c677.chunk.css",
     "main.js": "/test-gh-pages/static/js/main.05334f6c.chunk.js",
     "main.js.map": "/test-gh-pages/static/js/main.05334f6c.chunk.js.map",
     "runtime-main.js": "/test-gh-pages/static/js/runtime-main.948b0483.js",
@@ -8,7 +8,7 @@
     "static/js/2.f9e99e6c.chunk.js": "/test-gh-pages/static/js/2.f9e99e6c.chunk.js",
     "static/js/2.f9e99e6c.chunk.js.map": "/test-gh-pages/static/js/2.f9e99e6c.chunk.js.map",
     "index.html": "/test-gh-pages/index.html",
-    "static/css/main.6ca081cb.chunk.css.map": "/test-gh-pages/static/css/main.6ca081cb.chunk.css.map",
+    "static/css/main.b7b6c677.chunk.css.map": "/test-gh-pages/static/css/main.b7b6c677.chunk.css.map",
     "static/js/2.f9e99e6c.chunk.js.LICENSE.txt": "/test-gh-pages/static/js/2.f9e99e6c.chunk.js.LICENSE.txt",
     "static/media/Croix.2b9b9747.svg": "/test-gh-pages/static/media/Croix.2b9b9747.svg",
     "static/media/IconeTwitch.72d35b74.svg": "/test-gh-pages/static/media/IconeTwitch.72d35b74.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.948b0483.js",
     "static/js/2.f9e99e6c.chunk.js",
-    "static/css/main.6ca081cb.chunk.css",
+    "static/css/main.b7b6c677.chunk.css",
     "static/js/main.05334f6c.chunk.js"
   ]
 }
